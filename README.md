@@ -1,2 +1,3 @@
 # board03
-My test program (mini bulletin board) for final program of byte degree using django framework.
+This is my test program (mini bulletin board) for a final program of 'byte degree' using django framework.
+Thanks.
